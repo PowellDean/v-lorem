@@ -3,5 +3,5 @@ module main
 import lorem
 
 fn main() {
-    println(lorem.paragraphs(3))
+    println(lorem.paragraphs(2))
 }
